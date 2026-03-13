@@ -2,7 +2,7 @@
 
 I'm a second year Computer Science major at the University of British Columbia. I'm passionate about tech and designing digital solutions to address real-world problem<br>
 * I'm currently learning: Spring Boot, PostgreSQL
-* I'm working on [First Love Memory Manipulator](https://github.com/chucan1312/twinkling-watermelon.git), an idle game inspired by the movie Twinkling Watermelon!
+* I'm working on [First Love Memory Manipulator](https://github.com/chucan1312/twinkling-watermelon.git), an idle game inspired by the kdrama Twinkling Watermelon!
 * Check out my portfolio [here](https://an-trinh-portfolio.vercel.app/)!
 
 ## Tech stack
