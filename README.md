@@ -1,8 +1,8 @@
 # Hi there, I'm An 👋
 
-I'm a second year Computer Science major at the University of British Columbia. I'm passionate about tech and designing digital solutions to address real-world problem<br>
-* I'm currently learning: Redis, Next.js
-* I'm working on [Blindfeed](https://github.com/chucan1312/feedback-platform), an AI-powered anonymous survey platform
+I'm a third year Computer Science major at the University of British Columbia. I'm passionate about tech and designing digital solutions to address real-world problem<br>
+* I'm currently intern at Viettel as an AI Engineer
+* I'm working on [Cachelab](https://github.com/hayzie-chu/cachelab), a semantic caching npm package that reduces your AI token usages, boosts agent performance, and collects operational metrics for understanding the tradeoffs behind AI system decisions
 * Check out my portfolio [here](https://an-trinh-portfolio.vercel.app/)!
 
 ## Tech stack
