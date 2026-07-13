@@ -1,7 +1,7 @@
 # Hi there, I'm An 👋
 
 I'm a third year Computer Science major at the University of British Columbia. I'm passionate about building AI-powered software and intelligent systems, with interests spanning AI engineering and full-stack development.<br>
-* I'm currently interning at Viettel as an AI Engineer.
+* I'm an incoming Co-op Programmer Analyst at the Faculty of Medicine, Digital Solutions
 * I'm working on [Cachelab](https://github.com/hayzie-chu/cachelab), a semantic caching npm package that reduces your AI token usages, boosts agent performance, and collects operational metrics for understanding the tradeoffs behind AI system decisions.
 * I was cmd-f 2026 1st Place Winner! Check out [Carades](https://github.com/Fradedaniela0305/Carades) and read about my first (but hopefully not last) hackathon winning experience [here](https://www.linkedin.com/posts/an-trinh-891462332_our-team-won-1st-place-winner-at-cmd-f-2026-ugcPost-7437254425783529472-GYF8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFO3iG0BBePh9ohWnAXDm8F_9pTunfajZxg).
 * Check out my portfolio [here](https://an-trinh-portfolio.vercel.app/)!
